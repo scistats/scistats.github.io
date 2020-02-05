@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html><head>
+<title>安排</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/scistats/scistats.github.io/vendor/js/jquery.min.js"></script>
+<script src="/scistats/scistats.github.io/vendor/js/popper.min.js"></script>
+<script src="/scistats/scistats.github.io/vendor/js/bootstrap.min.js"></script>
+<script src="/scistats/scistats.github.io/vendor/js/smooth-scroll.polyfills.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/scistats/scistats.github.io/vendor/css/bootstrap.min.css">
+<script src="/scistats/scistats.github.io/vendor/js/vue.min.js" ></script>
+
+<script src="/scistats/scistats.github.io/vendor/js/katex.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/scistats/scistats.github.io/vendor/css/katex.min.css">
+<script defer src="/scistats/scistats.github.io/vendor/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+
+
+
+<link rel="stylesheet" href="https://github.com/scistats/scistats.github.io/scss/journal.min.107402f445f84dc0ea245459f443fb097fc7bc46112cb0f747f9d41122e52af3.css" integrity="sha256-EHQC9EX4TcDqJFRZ9EP7CX/HvEYRLLD3R/nUESLlKvM=" media="screen">
+
+<script src="https://github.com/scistats/scistats.github.io/js/loadCSS.js"></script>
+<script src="https://github.com/scistats/scistats.github.io/js/table.js"></script>
+
+
+
+<script>
+  loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://github.com/scistats/scistats.github.io">
+    
+        <div class="nav-title">
+            课程中心
+        </div>
+        
+        <div class="nav-subtitle">
+            试验中
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/scistats/scistats.github.io/prob20a">
+                    分类1
+                </a>
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/scistats/scistats.github.io/ra20">
+                    分类2
+                </a>
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        	
+	Based on
+	
+<a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a>
+
+
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/scistats/scistats.github.io/prob20a">
+                        分类1
+                    </a>
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/scistats/scistats.github.io/ra20">
+                        分类2
+                    </a>
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://github.com/scistats/scistats.github.io">
+            课程中心
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://github.com/scistats/scistats.github.io">
+        <div class="single-column-header-title">课程中心</div>
+        
+        <div class="single-column-header-subtitle">试验中</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+
+            
+            
+
+            
+                
+                
+            
+
+            <div class="post-head-wrapper" style="background-image: url('/scistats/scistats.github.io/images/ChalkboardBackground.jpg')">
+                <div class="post-title">
+                    安排
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            Feb 1, 2020
+                        </time>
+
+                        
+
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <h2 id="课程内容">课程内容</h2>
+<ul>
+<li>
+<p>先修课程: 微积分, 多元微积分, 线性代数</p>
+</li>
+<li>
+<p>概率统计B是概率论与数理统计的入门课程，主要介绍概率论和统计推断<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
+<ul>
+<li>概率论：概率空间，事件与概率，条件概率，随机变量，多元随机变量，随机变量的期望与方差，大数定理与中心极限定理等</li>
+<li>统计推断：Bayes估计，极大似然估计，样本估计量及其分布，假设检验</li>
+</ul>
+</li>
+</ul>
+<h2 id="作业与考试">作业与考试</h2>
+<ul>
+<li>助教安排: 助教主要负责批改平时作业以及期末考前辅导与答疑</li>
+<li>平时作业: 从通知的第一次交作业日期开始，每周交一次作业，请尽量不要迟交或缺交作业，以免影响总评成绩</li>
+<li>评估方法: 总评 = 平时作业 (15%) + 期末考试 (85%). <strong>闭卷考试</strong>.</li>
+</ul>
+<h2 id="课后作业">课后作业</h2>
+<blockquote>
+<p>第一次作业</p>
+</blockquote>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>概率统计A还包含随机过程：平稳随机过程，平稳Gaussian过程，遍历过程，Markov链 <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+                    <HR width="100%" id="EOF">
+                    <p style="color:#777;">Last modified on Feb 1, 2020</p>
+                </div>
+                
+            </div>
+            
+            
+            
+            
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">	
+	Based on
+	
+<a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a>
+
+</div>
+    	</div>
+    <script src="https://github.com/scistats/scistats.github.io/js/journal.js"></script>
+    </body>
+</html>
