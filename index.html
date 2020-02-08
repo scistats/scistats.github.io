@@ -21,14 +21,31 @@
 <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
 <script src="/vendor/js/vue.min.js" ></script>
 
+
 <script src="/vendor/js/katex.min.js" ></script>
 <link type="text/css" rel="stylesheet" href="/vendor/css/katex.min.css">
-<script defer src="/vendor/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+<script defer src="/vendor/js/auto-render.min.js" onload="renderAllMath();"></script>
+<script>
+function renderAllMath(){
+    renderMathInElement(
+      document.body,
+      {
+          delimiters: [
+              { left: "$$", right: "$$", display: true },
+              { left: "\\[", right: "\\]", display: true },
+              { left: "$", right: "$", display: false },
+              { left: "\\(", right: "\\)", display: false }
+          ]
+      }
+  );
+}
+</script>
 
 
 
 
-<link rel="stylesheet" href="https://scistats.github.io/scss/journal.min.107402f445f84dc0ea245459f443fb097fc7bc46112cb0f747f9d41122e52af3.css" integrity="sha256-EHQC9EX4TcDqJFRZ9EP7CX/HvEYRLLD3R/nUESLlKvM=" media="screen">
+
+<link rel="stylesheet" href="https://scistats.github.io/scss/journal.min.0156179cb78beb5c0120f495620c37cb59dcae0d51534210e8987ea42b587f6e.css" integrity="sha256-AVYXnLeL61wBIPSVYgw3y1ncrg1RU0IQ6Jh&#43;pCtYf24=" media="screen">
 
 <script src="https://scistats.github.io//js/loadCSS.js"></script>
 <script src="https://scistats.github.io//js/table.js"></script>
@@ -50,7 +67,7 @@
         </div>
         
         <div class="nav-subtitle">
-            试验中
+            数学
         </div>
         
     </a>
@@ -61,15 +78,15 @@
             
                 
                 
-                <a class="a-block nav-link-item false" href="/prob20a">
-                    分类1
+                <a class="a-block nav-link-item false" href="/ra20">
+                    实变函数
                 </a>
         
             
                 
                 
-                <a class="a-block nav-link-item false" href="/ra20">
-                    分类2
+                <a class="a-block nav-link-item false" href="/prob20a">
+                    概率统计B
                 </a>
         
     </div>
@@ -78,7 +95,7 @@
 
     <div class="nav-footer">
         	
-	Based on Hugo&#39;s Diary
+	Based on Diary
 	
 
 
@@ -106,15 +123,15 @@
                 
                     
                     
-                    <a class="a-block drawer-menu-item false" href="/prob20a">
-                        分类1
+                    <a class="a-block drawer-menu-item false" href="/ra20">
+                        实变函数
                     </a>
             
                 
                     
                     
-                    <a class="a-block drawer-menu-item false" href="/ra20">
-                        分类2
+                    <a class="a-block drawer-menu-item false" href="/prob20a">
+                        概率统计B
                     </a>
             
             
@@ -142,7 +159,7 @@
     <a href="https://scistats.github.io/">
         <div class="single-column-header-title">课程中心</div>
         
-        <div class="single-column-header-subtitle">试验中</div>
+        <div class="single-column-header-subtitle">数学</div>
         
 
     </a>
@@ -153,19 +170,19 @@
     <div class="post-list-container post-list-container-no-background">
         
         
-        <a href="https://scistats.github.io/real-analysis20/chapter-1/" class="a-block">
+        <a href="https://scistats.github.io/real-analysis20/lebesgue_measure/" class="a-block">
             <div class="post-item-wrapper">
                 <div class="post-item post-item-no-divider">
                     <div class="post-item-info-wrapper">
                         <div class="post-item-title">
-                            基本概念
+                            第二节：Lebesgue测度与外测度
                         </div>
                         <div class="post-item-summary">
-                            The Grand Hall
+                            
                         </div>
                         <div class="post-item-meta">
                             
-                            Feb 3, 2020
+                            Jan 1, 0001
                         </div>
                     </div>
                     
@@ -176,25 +193,48 @@
         
         
         
-        <a href="https://scistats.github.io/real-analysis20/policy/" class="a-block">
+        <a href="https://scistats.github.io/real-analysis20/preliminaries/" class="a-block">
             <div class="post-item-wrapper">
                 <div class="post-item post-item-no-divider">
                     <div class="post-item-info-wrapper">
                         <div class="post-item-title">
-                            安排
+                            第一节：预备知识，集合与函数
                         </div>
                         <div class="post-item-summary">
-                            课程内容，考试要求，课后作业
+                            集合，可数性，Cantor集合
                         </div>
                         <div class="post-item-meta">
                             
-                            Feb 2, 2020
+                            Jan 1, 0001
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </a>
+        
+        
+        
+        <a href="https://scistats.github.io/probability20a/probability_events/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-divider">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            第一节：事件与概率
+                        </div>
+                        <div class="post-item-summary">
+                            The Grand Hall
+                        </div>
+                        <div class="post-item-meta">
+                            
+                            Jan 1, 0001
                         </div>
                     </div>
                     
                     
                     <div class="post-item-image-wrapper">
-                        <div class="post-item-image" style="background-image: url('/images/ChalkboardBackground.jpg')">
+                        <div class="post-item-image" style="background-image: url('/images/Pope-Edouard-de-Beaumont-1844.jpg')">
                         </div>
                     </div>
                     
@@ -209,14 +249,14 @@
                 <div class="post-item post-item-no-divider">
                     <div class="post-item-info-wrapper">
                         <div class="post-item-title">
-                            安排
+                            概率统计B 课程安排
                         </div>
                         <div class="post-item-summary">
                             课程内容，考试要求，课后作业
                         </div>
                         <div class="post-item-meta">
                             
-                            Feb 1, 2020
+                            Jan 1, 0001
                         </div>
                     </div>
                     
@@ -232,25 +272,25 @@
         
         
         
-        <a href="https://scistats.github.io/probability20a/chapter-1/" class="a-block">
+        <a href="https://scistats.github.io/real-analysis20/policy/" class="a-block">
             <div class="post-item-wrapper">
                 <div class="post-item post-item-no-divider">
                     <div class="post-item-info-wrapper">
                         <div class="post-item-title">
-                            事件与概率
+                            实变函数 课程安排
                         </div>
                         <div class="post-item-summary">
-                            The Grand Hall
+                            课程内容，考试要求
                         </div>
                         <div class="post-item-meta">
                             
-                            Apr 9, 2017
+                            Jan 1, 0001
                         </div>
                     </div>
                     
                     
                     <div class="post-item-image-wrapper">
-                        <div class="post-item-image" style="background-image: url('/images/Pope-Edouard-de-Beaumont-1844.jpg')">
+                        <div class="post-item-image" style="background-image: url('/images/ChalkboardBackground.jpg')">
                         </div>
                     </div>
                     
@@ -266,7 +306,7 @@
 
 
 <div id="single-column-footer">	
-	Based on Hugo&#39;s Diary
+	Based on Diary
 	
 
 

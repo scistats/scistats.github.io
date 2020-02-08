@@ -3,73 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://scistats.github.io/ra20/chapter-i/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/ra20/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/tags/scene/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/tags/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/real-analysis20/chapter-1/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scistats.github.io/tags/analysis/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/ra20/policy/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/real-analysis20/policy/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/prob20a/policy/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/prob20a/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/probability20a/policy/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://scistats.github.io/prob20a/chapter-i/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scistats.github.io/probability20a/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>https://scistats.github.io/ra20/lebesgue-measure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/ra20/policy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/prob20a/policy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/ra20/preliminaries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/prob20a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/ra20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/real-analysis20/policy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/probability20a/policy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/probability20a/probability_events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/real-analysis20/preliminaries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/real-analysis20/lebesgue_measure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/</loc>
   </url>
   
 </urlset>

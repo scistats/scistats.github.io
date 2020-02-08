@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preliminaries on 课程中心</title>
+    <link>https://scistats.github.io/ra20/preliminaries/</link>
+    <description>Recent content in preliminaries on 课程中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    
+	<atom:link href="https://scistats.github.io/ra20/preliminaries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一节：预备知识，集合与函数</title>
+      <link>https://scistats.github.io/real-analysis20/preliminaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/preliminaries/</guid>
+      <description>Rationals are countable- 欧式空间的距离，函数极限，序列极限- 欧式空间中的开集，闭集和完全集，开集的构造- 欧式空间的紧集，Heine–Borel定理- 函数的极限，连续性### Cantor集，Cantor函数Cantor set and binary treeCantor function### Riemannian积分请自行复习Riemannian积分的定义，性质以及函数可积性的充分条件### 课后作业 --  </description>
+    </item>
+    
+  </channel>
+</rss>

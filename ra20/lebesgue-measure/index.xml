@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lebesgue measure on 课程中心</title>
+    <link>https://scistats.github.io/ra20/lebesgue-measure/</link>
+    <description>Recent content in Lebesgue measure on 课程中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    
+	<atom:link href="https://scistats.github.io/ra20/lebesgue-measure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第二节：Lebesgue测度与外测度</title>
+      <link>https://scistats.github.io/real-analysis20/lebesgue_measure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/lebesgue_measure/</guid>
+      <description>外测度   外测度
+  Lebesgue可测集， Sigma代数
+  </description>
+    </item>
+    
+  </channel>
+</rss>

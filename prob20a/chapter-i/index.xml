@@ -6,23 +6,19 @@
     <description>Recent content in Chapter I on 课程中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Based on Hugo&#39;s Diary</copyright>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <copyright>Based on Diary</copyright>
     
 	<atom:link href="https://scistats.github.io/prob20a/chapter-i/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>事件与概率</title>
-      <link>https://scistats.github.io/probability20a/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>第一节：事件与概率</title>
+      <link>https://scistats.github.io/probability20a/probability_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://scistats.github.io/probability20a/chapter-1/</guid>
-      <description>科学，是正确反映世界本质与规律的理论，包括正确的概念、命题、原理与理论体系；其对象是客观本质与客观规律，内容是科学本质与科学规律，形式是语言，包括自然语言与数学等人工语言。科学和科学理论是同义语。真正的科学或科学理论不可证伪。 根据科学反映对象的领域，科学目前分为自然科学、社会科学、思维科学、横断科学、纵深科学、哲学六个大类。 在中华民族整体论的思维方式看来，科学是一个整体，科学不等于学科，也不等于分科，不同类别的科学之间的区别，是相对的而不是绝对的。 [1]
-$$\sqrt{3x-1}+(1+x)^2$$
-Markdown
-Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <guid>https://scistats.github.io/probability20a/probability_events/</guid>
+      <description> 
+ --</description>
     </item>
     
   </channel>
