@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/prob20a/policy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>概率统计B 课程安排</title>
       <link>https://scistats.github.io/probability20a/policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/probability20a/policy/</guid>
       <description>[Probability](/pdfs/lecture1_intro_prob_cn.pdf#view=FitV) --课程内容   先修课程: 微积分, 多元微积分, 线性代数
@@ -24,8 +25,7 @@
     作业与考试   助教安排: 助教主要负责批改平时作业以及期末考前辅导与答疑
   平时作业: 从通知的第一次交作业日期开始，每周交一次作业，请尽量不要迟交或缺交作业，以免影响总评成绩
   评估方法: 总评 = 平时作业 (15%) + 期末考试 (85%). 闭卷考试.
-  课后作业  第一次作业
-   概率统计A还包含随机过程：平稳随机过程，平稳Gaussian过程，遍历过程，Markov链 &amp;#x21a9;&amp;#xfe0e;
+    概率统计A还包含随机过程：平稳随机过程，平稳Gaussian过程，遍历过程，Markov链 &amp;#x21a9;&amp;#xfe0e;
    </description>
     </item>
     
