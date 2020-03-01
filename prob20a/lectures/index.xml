@@ -13,12 +13,25 @@
     
     
     <item>
+      <title>概率统计B 图例</title>
+      <link>https://scistats.github.io/probability20a/illustration/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/probability20a/illustration/</guid>
+      <description> -- --conditional probability boys and girls </description>
+    </item>
+    
+    <item>
       <title>概率统计B 讲义与作业</title>
       <link>https://scistats.github.io/probability20a/notes/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/probability20a/notes/</guid>
-      <description> -- --课堂笔记  事件与概率  课后作业  第一周: 习题1.2（1，3，6，8，12）  </description>
+      <description> -- --课堂笔记   事件与概率
+  条件概率，全概率公式
+  课后作业   第一周: 习题1.2（1，3，6，8，12）
+  第二周: 习题1.3（2，3），习题1.4（1，2），习题1.5（1-5）
+  </description>
     </item>
     
   </channel>
