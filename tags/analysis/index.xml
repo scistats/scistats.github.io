@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>实变函数 课后作业</title>
+      <link>https://scistats.github.io/real-analysis20/assignments/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
+      <description>仅供学习使用: 实变函数论第二版
+  第一周作业
+  第二周作业
+  </description>
+    </item>
+    
+    <item>
       <title>实变函数 课程讲义</title>
       <link>https://scistats.github.io/real-analysis20/notes/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
@@ -46,18 +58,6 @@ Rationals are countable   欧式空间的距离，函数极限，序列极限
    课程内容以上课安排为主，覆盖参考书大字部分内容，小字部分作为扩展阅读
  作业与考试   平时作业: 如果有助教, 那么作业和答疑由助教负责，否则作业采用随机抽查的形式
   评估方法: 总评 = 期末考试 (100%). 闭卷考试，平时作业不计入总成绩，但不完成作业将会在总分中体现
-  </description>
-    </item>
-    
-    <item>
-      <title>实变函数 课后作业</title>
-      <link>https://scistats.github.io/real-analysis20/assignments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
-      <description>仅供学习使用: 实变函数论第二版
-  第一周作业
-  第二周作业
   </description>
     </item>
     
