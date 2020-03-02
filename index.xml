@@ -35,18 +35,6 @@ Rationals are countable   欧式空间的距离，函数极限，序列极限
     </item>
     
     <item>
-      <title>实变函数 课后作业</title>
-      <link>https://scistats.github.io/real-analysis20/assignments/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
-      <description>仅供学习使用: 实变函数论第二版
-  第一周作业
-  第二周作业
-  </description>
-    </item>
-    
-    <item>
       <title>概率统计B 图例</title>
       <link>https://scistats.github.io/probability20a/illustration/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
@@ -98,6 +86,18 @@ Rationals are countable   欧式空间的距离，函数极限，序列极限
   评估方法: 总评 = 平时作业 (15%) + 期末考试 (85%). 闭卷考试.
     概率统计A还包含随机过程：平稳随机过程，平稳Gaussian过程，遍历过程，Markov链 &amp;#x21a9;&amp;#xfe0e;
    </description>
+    </item>
+    
+    <item>
+      <title>实变函数 课后作业</title>
+      <link>https://scistats.github.io/real-analysis20/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
+      <description>仅供学习使用: 实变函数论第二版
+  第一周作业
+  第二周作业
+  </description>
     </item>
     
   </channel>

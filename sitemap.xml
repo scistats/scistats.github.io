@@ -33,22 +33,12 @@
   </url>
   
   <url>
-    <loc>https://scistats.github.io/ra20/assignments/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scistats.github.io/prob20a/lectures/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://scistats.github.io/prob20a/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/real-analysis20/assignments/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +53,12 @@
   </url>
   
   <url>
-    <loc>https://scistats.github.io/prob20a/policy/</loc>
+    <loc>https://scistats.github.io/ra20/policy/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scistats.github.io/ra20/policy/</loc>
+    <loc>https://scistats.github.io/prob20a/policy/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,6 +70,14 @@
   <url>
     <loc>https://scistats.github.io/probability20a/policy/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/ra20/assignments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/real-analysis20/assignments/</loc>
   </url>
   
 </urlset>
