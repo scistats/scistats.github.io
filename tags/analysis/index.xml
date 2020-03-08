@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,26 +15,29 @@
     <item>
       <title>实变函数 课后作业</title>
       <link>https://scistats.github.io/real-analysis20/assignments/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
       <description>仅供学习使用: 实变函数论第二版
   第一周作业
   第二周作业
+  第三周作业
   </description>
     </item>
     
     <item>
       <title>实变函数 课程讲义</title>
       <link>https://scistats.github.io/real-analysis20/notes/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/notes/</guid>
-      <description> 请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
+      <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
  课堂笔记   集合，极限，可数与不可数
   开集，闭集，紧集，完全集
   连续函数，Cantor集与Cantor函数
   外测度，Lebesgue外测度
+  Lebesgue测度，可测集，Caratheodory定理, 内容较上节有部分调整！
+  可测性的等价刻画，不可测集
   知识要点 欧式空间的集合与函数   集合的上极限，下极限，De Morgan律，可数与不可数
 Rationals are countable   欧式空间的距离，函数极限，序列极限
   欧式空间中的开集，闭集和完全集，开集的构造
@@ -42,8 +45,7 @@ Rationals are countable   欧式空间的距离，函数极限，序列极限
   函数的极限，连续性
   请自行复习Riemannian积分的定义，性质以及函数可积性的充分条件
   Cantor集，Cantor函数 Cantor set and binary tree Cantor function 外测度，Lebesgue测度   外测度的定义，可测集的性质
-  Lebesgue外测度
-  </description>
+  Lebesgue外测度与测度</description>
     </item>
     
     <item>
