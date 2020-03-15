@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/ra20/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>assignments</title>
       <link>https://scistats.github.io/ra20/assignments/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/ra20/assignments/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>lectures</title>
       <link>https://scistats.github.io/ra20/lectures/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/ra20/lectures/</guid>
       <description></description>
