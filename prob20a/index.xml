@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/prob20a/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>lectures</title>
-      <link>https://scistats.github.io/prob20a/lectures/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/prob20a/lectures/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Policy</title>
