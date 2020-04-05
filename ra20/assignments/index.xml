@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/ra20/assignments/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>实变函数 课后作业</title>
       <link>https://scistats.github.io/real-analysis20/assignments/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
       <description>仅供学习使用: 实变函数论第二版
@@ -25,6 +25,7 @@
   第四周作业
   第五周作业
   第六周作业
+  第七周作业
   </description>
     </item>
     

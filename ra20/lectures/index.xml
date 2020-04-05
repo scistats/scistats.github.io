@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/ra20/lectures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>实变函数 图例</title>
-      <link>https://scistats.github.io/real-analysis20/illustration/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/real-analysis20/illustration/</guid>
-      <description> -- --      Caratheodory theorem </description>
-    </item>
-    
-    <item>
       <title>实变函数 课程讲义</title>
       <link>https://scistats.github.io/real-analysis20/notes/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/notes/</guid>
       <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
@@ -40,12 +31,20 @@
   Egorov定理与Lusin定理
   简单函数的积分
   有界可测函数的积分
+  Riemann 积分与Lebesgue积分, 非负可测函数积分
+  Fatou引理, MCT, 逐项积分定理
   知识要点 欧式空间的集合与函数   集合的上极限，下极限，De Morgan律，可数与不可数
 Rationals are countable   欧式空间的距离，函数极限，序列极限
-  欧式空间中的开集，闭集和完全集，开集的构造
-  欧式空间的紧集，Heine–Borel定理
-  函数的极限，连续性
-  请自行复习Riemannian积分的定义，性质以及函数可积性的充分条件</description>
+  欧式空间中的开集，闭集和完全集，开集的构造</description>
+    </item>
+    
+    <item>
+      <title>实变函数 图例</title>
+      <link>https://scistats.github.io/real-analysis20/illustration/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/illustration/</guid>
+      <description> -- --       Caratheodory theorem </description>
     </item>
     
   </channel>
