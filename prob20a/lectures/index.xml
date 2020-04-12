@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/prob20a/lectures/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>概率统计B 讲义与作业</title>
       <link>https://scistats.github.io/probability20a/notes/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/probability20a/notes/</guid>
       <description>-- --课堂笔记 仅供学习使用: 概率论
@@ -41,7 +41,7 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/probability20a/illustration/</guid>
-      <description> -- --conditional probability boys and girls          </description>
+      <description> -- --conditional probability boys and girls            </description>
     </item>
     
   </channel>
