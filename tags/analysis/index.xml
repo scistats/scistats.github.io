@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>实变函数 课程讲义</title>
       <link>https://scistats.github.io/real-analysis20/notes/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/notes/</guid>
       <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
@@ -37,13 +37,13 @@
   积分的进一步性质，连续函数与可积函数
   重积分与累次积分
   Fubini定理的应用, Tonelli定理
-  知识要点 欧式空间的集合与函数   集合的上极限，下极限，De Morgan律，可数与不可数</description>
+  Vitali覆盖, Lebesgue定理</description>
     </item>
     
     <item>
       <title>实变函数 课后作业</title>
       <link>https://scistats.github.io/real-analysis20/assignments/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/assignments/</guid>
       <description>仅供学习使用: 实变函数论第二版
@@ -56,6 +56,7 @@
   第七周作业
   第八周作业: 教材第二版p174, 3, 4, p180, 7, 8, 9, p186, 5, 7, 8, p190, 11, 13
   第九周作业: 教材第二版p220, 1, 2, 3, 4, 5, 17, 18, 20, 24
+  第十周作业: 教材第二版p248, 2, 5, p255, 2, 3, 4, 5, 6
   </description>
     </item>
     
