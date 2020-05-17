@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>实变函数 课程讲义</title>
+      <link>https://scistats.github.io/real-analysis20/notes/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/real-analysis20/notes/</guid>
+      <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
+ 课堂笔记   集合，极限，可数与不可数
+  开集，闭集，紧集，完全集
+  连续函数，Cantor集与Cantor函数
+  外测度，Lebesgue外测度
+  Lebesgue测度，可测集，Caratheodory定理, 内容较上节有部分调整！
+  可测集的等价刻画，不可测集
+  Lebesgue可测函数
+  可测函数的简单逼近
+  可测函数列的收敛性
+  Egorov定理与Lusin定理
+  简单函数的积分
+  有界可测函数的积分
+  Riemann 积分与Lebesgue积分, 非负可测函数积分
+  Fatou引理, MCT, 逐项积分定理
+  可测函数的积分
+  积分的进一步性质，连续函数与可积函数
+  重积分与累次积分
+  Fubini定理的应用, Tonelli定理
+  Vitali覆盖, Lebesgue定理</description>
+    </item>
     
     <item>
       <title>概率统计B 图例</title>
@@ -42,34 +70,6 @@
   第五周: 习题2.2（2，3），习题2.3（1，3，4，5），习题2.4（2，3，4，5，6）
   第六周: 习题2.5（4，5），习题2.6（1，2，3）, 习题2.7（1，2，3，4，5，6）
   第七周: 习题3.1（2，3，4，5）， 习题3.2（1，2），习题3.3（1），习题3.4（1, 2, 3）</description>
-    </item>
-    
-    <item>
-      <title>实变函数 课程讲义</title>
-      <link>https://scistats.github.io/real-analysis20/notes/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/real-analysis20/notes/</guid>
-      <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
- 课堂笔记   集合，极限，可数与不可数
-  开集，闭集，紧集，完全集
-  连续函数，Cantor集与Cantor函数
-  外测度，Lebesgue外测度
-  Lebesgue测度，可测集，Caratheodory定理, 内容较上节有部分调整！
-  可测性的等价刻画，不可测集
-  Lebesgue可测函数
-  可测函数的简单逼近
-  可测函数列的收敛性
-  Egorov定理与Lusin定理
-  简单函数的积分
-  有界可测函数的积分
-  Riemann 积分与Lebesgue积分, 非负可测函数积分
-  Fatou引理, MCT, 逐项积分定理
-  可测函数的积分
-  积分的进一步性质，连续函数与可积函数
-  重积分与累次积分
-  Fubini定理的应用, Tonelli定理
-  Vitali覆盖, Lebesgue定理</description>
     </item>
     
     <item>

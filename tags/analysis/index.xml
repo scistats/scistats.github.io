@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>实变函数 课程讲义</title>
       <link>https://scistats.github.io/real-analysis20/notes/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/notes/</guid>
       <description>请注意，讲义并非最后版本, 会根据大家的讨论，发现的问题来不断补充内容, 修正和更新! 大家多提问！
@@ -24,7 +24,7 @@
   连续函数，Cantor集与Cantor函数
   外测度，Lebesgue外测度
   Lebesgue测度，可测集，Caratheodory定理, 内容较上节有部分调整！
-  可测性的等价刻画，不可测集
+  可测集的等价刻画，不可测集
   Lebesgue可测函数
   可测函数的简单逼近
   可测函数列的收敛性
