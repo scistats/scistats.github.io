@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Based on Diary</copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scistats.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>实变函数 课程安排</title>
       <link>https://scistats.github.io/real-analysis20/policy/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/real-analysis20/policy/</guid>
-      <description>考试安排   考试：2020年5月30日上午9:00-12:00, 开卷考试, 可以翻查资料教材，但不能通过手机电脑等形式相互交流, 其余考场纪律与现场考试相同, 对大家予以充分信任, 自觉遵守
+      <description>实变函数2020春季期末考试卷 PDF    考试安排   考试：2020年5月30日上午9:00-12:00, 开卷考试, 可以翻查资料教材，但不能通过手机电脑等形式相互交流, 其余考场纪律与现场考试相同, 对大家予以充分信任, 自觉遵守
   发卷：当日8:20大家准备好学生证, 进入腾讯会议, 所有同学开启视频，开始点名，点名之后大约在8:30-40之间开始发卷，试卷可以通过本页面下载，同时通过学校课程中心以邮件形式发送！
   收卷：当日中午12:00停止答题，然后将答题纸拍照后，粘贴至考试卷封皮，转换为PDF后，通过电子邮箱发送到: ruanyl@buaa.edu.cn, 邮件命名: 学号_姓名_专业。收卷的截止时间为12:30, 以邮件接收时间点为准, 截止时间前未提交答卷默认为缺考。 不要通过学校的课程中心回复邮件来发送答卷！
   注意事项: 使用白色纸张答卷, 拍照时应尽量保证电子答卷完整, 清晰, 以免影响到评分！建议: 拍照后, 单张图片尺寸大于800K的, 使用图片编辑工具适当减少像素, 然后再粘贴到试卷封皮内.
@@ -27,10 +27,7 @@
 复习要点   可数性，Cantor集与函数，连续延拓，紧性等基本概念
   可测集，Lebesgue测度定义与等价刻画
   可测函数，定义与等价刻画，可测函数列的收敛，Littlewood三大原则
-  Lebesgue积分，Fatou引理，MCT，DCT，Fubini等及其应用，可积函数列的收敛
-  Lebesgue定理，BV函数，AC函数，微积分基本定理
-  主要考察基本概念，方法和主要定理的应用. 内容涵盖讲义和教材相关内容，最后一周内容，教材小字及星号内容（讲过的除外）不做考试要求
-  课程安排 课程内容   先修课程: 数学分析I-III</description>
+  Lebesgue积分，Fatou引理，MCT，DCT，Fubini等及其应用，可积函数列的收敛</description>
     </item>
     
     <item>
