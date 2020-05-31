@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://scistats.github.io/ra20/lectures/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/ra20/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/real-analysis20/illustration/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scistats.github.io/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scistats.github.io/tags/analysis/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://scistats.github.io/ra20/policy/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/ra20/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -25,16 +40,6 @@
   <url>
     <loc>https://scistats.github.io/real-analysis20/policy/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/ra20/lectures/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +69,6 @@
   
   <url>
     <loc>https://scistats.github.io/ra20/assignments/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scistats.github.io/real-analysis20/illustration/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
   </url>
   
