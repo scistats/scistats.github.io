@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>real analysis on 课程信息</title>
+    <link>https://scistats.github.io/categories/real-analysis/</link>
+    <description>Recent content in real analysis on 课程信息</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/real-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实变函数</title>
+      <link>https://scistats.github.io/analysis/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

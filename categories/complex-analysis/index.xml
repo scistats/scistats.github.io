@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex analysis on 课程信息</title>
+    <link>https://scistats.github.io/categories/complex-analysis/</link>
+    <description>Recent content in complex analysis on 课程信息</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/complex-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>复变函数</title>
+      <link>https://scistats.github.io/complex/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/complex/</guid>
+      <description>平时作业：每周五之前交上一周作业，由学委与助教联系收发作业.
+考核方式：闭卷考试80%，平时作业20%
+  节1.1, 节1.2
+  节2.1, 节2.2
+  节3.1, 节3.2
+  节3.3, 节3.4
+  节3.5, 节3.6
+  节4.1, 4.2节
+  节4.3
+  节4.4
+  节4.5, 节5.1
+  节7.1, 节7.2
+  节7.3, 节8.1
+  节8.2, 节8.3
+  节8.4, 节8.5
+   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probability and statistics on 课程信息</title>
+    <link>https://scistats.github.io/categories/probability-and-statistics/</link>
+    <description>Recent content in probability and statistics on 课程信息</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/probability-and-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>概率统计A/B</title>
+      <link>https://scistats.github.io/probability/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/probability/</guid>
+      <description>平时作业：每周课后交上一周作业，由学委与助教联系收发作业.
+考核方式：闭卷考试90%，平时作业10%
+ 节1.1, 节1.2  </description>
+    </item>
+    
+  </channel>
+</rss>
