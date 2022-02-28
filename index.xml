@@ -43,14 +43,5 @@
  Sec.1.1, Sec.1.2, Sec.1.3  </description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://scistats.github.io/analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/analysis/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
