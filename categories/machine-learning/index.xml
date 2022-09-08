@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on 课程信息</title>
+    <link>https://scistats.github.io/categories/machine-learning/</link>
+    <description>Recent content in machine learning on 课程信息</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Based on Diary</copyright>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncertainty Quantification</title>
+      <link>https://scistats.github.io/uq/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/uq/</guid>
+      <description>Participation：20%
+Final project: 80%
+Course materials  Probabiliy review, introduction to parametric modeling pdf  </description>
+    </item>
+    
+  </channel>
+</rss>
