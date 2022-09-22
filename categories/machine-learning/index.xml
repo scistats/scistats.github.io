@@ -20,7 +20,9 @@ Course materials   Probability review, introduction to parametric modeling pdf
   MAP and MLE, beta-binomial conjugate pdf
   Dirichlet-multinomial conjugate, NB a worked example pdf
   QDA and LDA pdf
-  </description>
+  Bayesian Gaussian theorem, Linear Gaussian system pdf
+  Suggested projects document classification by NB
+digits classification by Gaussian model</description>
     </item>
     
   </channel>
