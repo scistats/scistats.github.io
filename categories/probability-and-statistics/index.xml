@@ -16,6 +16,7 @@
       <guid>https://scistats.github.io/probability/</guid>
       <description>平时作业：每周课后交上一周作业，由学委与助教联系收发作业.
 考核方式：闭卷考试90%，平时作业10%
+根据通知，期末考试改为线上
 课件   概率公理化定义，基本性质 01.1.ppt, 1.2.ppt, ppt1.3
   条件概率，乘法公式，Bayesian公式 1.4.ppt, 1.5.ppt
   随机事件的独立性 1.6.ppt, 第一章补充材料 chap1_sp.pdf
@@ -28,7 +29,7 @@
   随机向量、函数的分布 4.1.pdf，4.2.pdf，4.3.pdf，4.4.pdf，补充材料 chap4_sp.pdf
   期望 5.1.pdf，5.2.pdf，方差5.3.pdf
   协方差，相关系数 5.4.pdf，5.5.pdf, 5.6.pdf
-  大数定律 6.pdf，参数估计 7.pdf，区间估计 8.pdf，部分要点 chap7-8.pdf</description>
+  大数定律 6.pdf，参数估计 7.pdf，区间估计 8.pdf，部分要点 chap7-8.</description>
     </item>
     
   </channel>
