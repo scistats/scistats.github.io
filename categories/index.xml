@@ -6,32 +6,14 @@
     <description>Recent content in Categories on 课程信息</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Based on Diary</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>machine learning</title>
-      <link>https://scistats.github.io/categories/machine-learning/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Diary</copyright>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>probability and statistics</title>
       <link>https://scistats.github.io/categories/probability-and-statistics/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://scistats.github.io/categories/probability-and-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complex analysis</title>
-      <link>https://scistats.github.io/categories/complex-analysis/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://scistats.github.io/categories/complex-analysis/</guid>
       <description></description>
     </item>
     
