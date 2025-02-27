@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probability and statistics on 课程信息</title>
+    <link>https://scistats.github.io/categories/probability-and-statistics/</link>
+    <description>Recent content in probability and statistics on 课程信息</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Diary</copyright>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://scistats.github.io/categories/probability-and-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>概率统计</title>
+      <link>https://scistats.github.io/probability/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://scistats.github.io/probability/</guid>
+      <description>平时作业：每周课后交上一周作业，由学委与助教联系收发作业.
+考核方式：闭卷期末考试 + 平时作业
+课件   古典概率，几何概率, 概率公理化 01.1.pdf, 01.2.pdf，01.3.pdf
+  条件概率，全概率公式，Bayes公式，独立性 01.4.pdf，01.5.pdf, 01.6.pdf
+  随机变量，分布函数 02.1.pdf，离散随机变量，二项分布，Poisson定理 02.2.pdf，02.3.pdf
+  连续型随机变量，正态分布 02.4.pdf，02.5.pdf
+  联合分布，边际分布 03.1.pdf，03.2.pdf
+  条件分布，独立随机变量 03.4.pdf，03.5.pdf
+  随机变量的函数 04.1.pdf，04.2.pdf，04.3.pdf，04.4.pdf
+  期望, 方差及其性质 05.1.pdf，05.2.pdf，05.3.pdf, 05.4.pdf
+  协方差与相关系数，05.5.pdf，05.6.pdf
+  大数定律，中心极限定理，06.1.pdf，06.2.pdf，样本与统计量，07.1.pdf, 07.2.pdf
+  正太总体抽样分布，点估计 07.2.pdf，08.1.pdf，08.2.pdf
+  区间估计，假设检验 08.3.pdf，08.4.pdf，09.1.pdf，09.2.pdf, 09.3.pdf
+  随机过程基本概念，有限维分布，数字特征，平稳过程 10.1.pdf，10.2.pdf，10.3.pdf，10.4.pdf，11.1.pdf, 11.2.pdf, 11.3.pdf
+  概率表 Poisson分布函数表
+标准正态分布表，t-分布表，开方分布表</description>
+    </item>
+    
+  </channel>
+</rss>
